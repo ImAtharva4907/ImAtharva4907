@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 👨‍💻 You can see more about me [https://imatharva4907.github.io/My-PORTFOLIO/](https://imatharva4907.github.io/My-PORTFOLIO/)
+- 👨‍💻 You can see more about me  <a href="https://imatharva4907.github.io/My-PORTFOLIO/"> Click here! </a>
 
 - 📫 How to reach me **akashsingh4907@gmail.com**
 
