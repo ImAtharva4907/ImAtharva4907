@@ -32,3 +32,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=imatharva4907&show_icons=true&locale=en" alt="imatharva4907" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=imatharva4907&" alt="imatharva4907" /></p>
+![Leetcode Stats](https://leetcard.jacoblin.cool/imatharva?ext=heatmap)
