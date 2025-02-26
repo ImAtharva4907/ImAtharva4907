@@ -32,5 +32,6 @@
 [![](https://visitcount.itsvg.in/api?id=ImAtharva4907&icon=2&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<p><img align="center" src="https://leetcard.jacoblin.cool/imatharva?theme=dark&font=Yeseva%20One&ext=heatmap&" alt="imatharva" /></p>
-
+# 📈 Leetcode Stats
+[![Leetcode](https://leetcode-badge-showcase.vercel.app/api?username=imatharva&theme=dark&border=no-border&animated=true)](https://leetcode.com/u/imatharva/)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/imatharva?ext=heatmap)](https://leetcode.com/imatharva)
