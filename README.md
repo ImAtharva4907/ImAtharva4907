@@ -40,13 +40,13 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📈 Leetcode Stats
 
-<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://leetcode.com/imatharva/">
-    <img src="https://leetcode-badge-showcase.vercel.app/api?username=imatharva&theme=dark&border=no-border&animated=true" alt="Leetcode Badge">
+    <img src="https://leetcode-badge-showcase.vercel.app/api?username=imatharva&theme=dark&border=no-border&animated=true" alt="Leetcode Badge" width="300">
   </a>
   <a href="https://leetcode.com/imatharva/">
-    <img src="https://leetcard.jacoblin.cool/imatharva?ext=heatmap" alt="Leetcode Heatmap">
+    <img src="https://leetcard.jacoblin.cool/imatharva?ext=heatmap" alt="Leetcode Heatmap" width="300">
   </a>
-</div>
+</div> 
 
 
