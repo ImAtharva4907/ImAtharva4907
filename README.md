@@ -40,7 +40,7 @@
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 # 📈 Leetcode Stats
 
-<div style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
+<div align="center" style="display: flex; justify-content: center; align-items: center; gap: 20px; flex-wrap: wrap;">
   <a href="https://leetcode.com/imatharva/">
     <img src="https://leetcode-badge-showcase.vercel.app/api?username=imatharva&theme=dark&border=no-border&animated=true" alt="Leetcode Badge">
   </a>
